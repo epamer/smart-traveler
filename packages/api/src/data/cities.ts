@@ -5,7 +5,7 @@ export const cities: City[] = [
     id: 0,
     name: 'Moscow',
     country: 'Russia',
-    visited: false,
+    visited: true,
     wishlist: false,
   },
   {
@@ -19,14 +19,14 @@ export const cities: City[] = [
     id: 2,
     name: 'Saint Petersburg',
     country: 'Russia',
-    visited: false,
+    visited: true,
     wishlist: false,
   },
   {
     id: 3,
     name: 'Berlin',
     country: 'Germany',
-    visited: false,
+    visited: true,
     wishlist: false,
   },
   {

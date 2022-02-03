@@ -17,7 +17,8 @@
     "jsx": "react-jsx",
     "declaration": false,
     "downlevelIteration": true,
-    "types": ["@types/jest", "node"]
+    "types": ["@types/jest", "node"],
+    "noImplicitAny": true
   },
   "include": ["src"]
 }
